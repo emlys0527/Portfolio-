@@ -1,0 +1,14 @@
+{
+  "name": "latelierpaon-preview",
+  "version": "1.0.0",
+  "description": "Preview server for L'Atelier Paon website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mime-types": "^2.1.35"
+  }
+}
